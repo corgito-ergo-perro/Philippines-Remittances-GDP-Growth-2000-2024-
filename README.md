@@ -30,8 +30,8 @@ The aim is to:
 
 
 ## 🔎 Quick Insights
-- Remittances as a % of GDP peaked in **[2005]** at **[12.78]%**.
-- The fastest GDP growth occurred in **[2022]**, reaching **[7.581]%**.
+- Remittances as a % of GDP peaked in **2005** at **12.78%**.
+- The fastest GDP growth occurred in **2022**, reaching **7.581%**.
 - Scatter plot suggests a [positive] relationship between remittances and GDP growth.
 
 ## 🛠️ How to Reproduce
